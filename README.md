@@ -34,4 +34,5 @@
 - [x] Mac Pro (Late 2013)
 # Link DOWNLOAD FROM APPLE
 [AppleBcUpdate.exe - Bootcamp 6.0.6171 Apple Servers](http://swcdn.apple.com/content/downloads/16/10/031-55711/ufi4c7o3x20i5ge93l2yu869yegn222i8l/AppleBcUpdate.exe)  SHA1: 9dcd4acdfd9eea5d11aa5bd40fe9c0a26ad809cb
+
 [AppleBcUpdate.exe - Bootcamp 6.0.6171 Mirror](http://download.digiex.net/Drivers/Bootcamp/AppleBcUpdate6.0.6171-01.April.2016.zip)  SHA1: 9dcd4acdfd9eea5d11aa5bd40fe9c0a26ad809cb
