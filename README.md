@@ -32,4 +32,5 @@
 - [x] Mac mini Server (Late 2012)
 - [x] Mac mini (Late 2012)
 - [x] Mac Pro (Late 2013)
-# If you have WinRAR installed you can also open the AppleBcUpdate.exe and extract only the drivers you require
+# Link DOWNLOAD FROM APPLE
+[AppleBcUpdate.exe - 1st April 2016 Download on Apple's Servers](http://swcdn.apple.com/content/downloads/16/10/031-55711/ufi4c7o3x20i5ge93l2yu869yegn222i8l/AppleBcUpdate.exe)
