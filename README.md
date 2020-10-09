@@ -1,6 +1,6 @@
 #This is a download of the Windows 10 Bootcamp 6 drivers, compatible with the following Macs:
 
-*MacBook Pro (Retina, 15-inch, Mid 2015)
+- [x] MacBook Pro (Retina, 15-inch, Mid 2015)
 *MacBook Pro (Retina, 13-inch, Early 2015)
 *MacBook Pro (Retina, 15-inch, Mid 2014)
 *MacBook Pro (Retina, 13-inch, Mid 2014)
